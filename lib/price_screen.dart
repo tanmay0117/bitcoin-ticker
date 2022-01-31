@@ -149,6 +149,9 @@ class _PriceScreenState extends State<PriceScreen> {
                   ),
                 ),
               ),
+              SizedBox.fromSize(
+                size: Size(20.0, 15.0),
+              ),
               Padding(
                 padding: EdgeInsets.fromLTRB(18.0, 0, 18.0, 0),
                 child: Card(
@@ -170,6 +173,9 @@ class _PriceScreenState extends State<PriceScreen> {
                     ),
                   ),
                 ),
+              ),
+              SizedBox.fromSize(
+                size: Size(20.0, 15.0),
               ),
               Padding(
                 padding: EdgeInsets.fromLTRB(18.0, 0, 18.0, 0),
